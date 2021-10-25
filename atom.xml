@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BiSangio</title>
+  
+  <subtitle>landscape</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-25T08:27:22.200Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>BiSangio</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>second page</title>
+    <link href="http://example.com/2021/10/25/Second-page/"/>
+    <id>http://example.com/2021/10/25/Second-page/</id>
+    <published>2021-10-25T08:40:20.691Z</published>
+    <updated>2021-10-25T08:27:22.200Z</updated>
+    
+    
+    
+    
+    <category term="闲谈" scheme="http://example.com/categories/%E9%97%B2%E8%B0%88/"/>
+    
+    
+    <category term="介绍" scheme="http://example.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2021/10/25/hello-world/"/>
+    <id>http://example.com/2021/10/25/hello-world/</id>
+    <published>2021-10-25T08:35:01.029Z</published>
+    <updated>2021-10-24T02:06:49.727Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1 id="关于此Blog："><a href="#关于此Blog：" class="headerlink" title="关于此Blog："></a>关于此Blog：</h1><ul><li>本人于意外之中发现这个如世外桃源般的网站，在这个信息大爆炸的时代，所有的社交软件、聊天工具几乎都是透明的，有一个专属于自己的可以随意倾吐、发泄的地方可以称之为天堂了吧，这也是此blog建立的初心。</li><li>emmmm这里应该就是记载着一些我的想法，微博Twitter之类的属实是不敢信任，发出去全世界都看得到（虽然这个也不见得好到哪儿去）🎈，但毕竟是找到了一个相对而言的比较隐私的网站。</li><li>可能以后我都会在这里说些什么，没什么用就是自己的小世界（我的世界我做主！！）</li></ul><h3 id="Thank-you-for-reading"><a href="#Thank-you-for-reading" class="headerlink" title="Thank you for reading!"></a><em>Thank you for reading!</em></h3><p>👋👋👋</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    <category term="闲谈" scheme="http://example.com/categories/%E9%97%B2%E8%B0%88/"/>
+    
+    
+    <category term="介绍" scheme="http://example.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于过去、现在和未来</title>
+    <link href="http://example.com/2021/10/17/%E5%85%B3%E4%BA%8E%E8%BF%87%E5%8E%BB%E3%80%81%E7%8E%B0%E5%9C%A8%E5%92%8C%E6%9C%AA%E6%9D%A5/"/>
+    <id>http://example.com/2021/10/17/%E5%85%B3%E4%BA%8E%E8%BF%87%E5%8E%BB%E3%80%81%E7%8E%B0%E5%9C%A8%E5%92%8C%E6%9C%AA%E6%9D%A5/</id>
+    <published>2021-10-17T09:01:42.000Z</published>
+    <updated>2021-10-21T13:25:02.357Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="谨以此纪念我来到的这个如地狱般的学校"><a href="#谨以此纪念我来到的这个如地狱般的学校" class="headerlink" title="谨以此纪念我来到的这个如地狱般的学校"></a>谨以此纪念我来到的这个如地狱般的学校</h1><h5 id="记于2020——2021"><a href="#记于2020——2021" class="headerlink" title="记于2020——2021"></a>记于2020——2021</h5><p>以下是一些看法</p><ul><li>由于高考少考了点，导致我不得不选择这一所学校，否则我可能就会去一所不错的211院校或是师范类院校（东北师范、陕西师范、西南大学等）</li><li>也是为了父母着想。家境真的算不上好，只能说是勉强小康，恩格尔系数仍然很高，生活质量很一般，所以通过高考选择一条看起来不错的路是每一个家境一般的孩子想到的第一条走向成功的法宝。一切都是迫不得已，如果我有张睿、陈佳旭一样的家境，想来我也会去选择一所不错的211院校，或许人生也有无限的可能，但我不得不为家庭考虑，毕竟父母为我所遭受的苦难已经太多太多，我在孩童时期没有的物质享受，我不想也在我的孩子身上发生。这就是我来这所学校的终极目标：就是极其世俗的为了以后能好找个工作，管他的年少轻狂，放纵激荡，唯有持续的物质保证才能让一个人远离烦恼（古人伟人所说的精神追求都是扯淡，没有物质哪来的精神？）</li><li>从小见惯了世俗炎凉，看到了很多阿谀奉承与冷眼相待，让我从去年明白阶级是最难以跨越的鸿沟，一个人若是家境贫寒，他则必须付出其他家境不是那么贫寒的人千百倍的努力才可达到他所想要达到的目标，这句话听来容易，但做起来则极其困难。甚至需要从祖父辈、父辈开始努力、积淀，才有可能成功，逆天改命。我经历了两年高考，也算是付出了一点点努力，再加上家人给我的动力和他们自身的付出，才算是有了一点回报，为了以后的路能更加平坦一些，父母少操心一些（他们也实在没有能力为我办一些大事）。跨越了阶级也算是书没白读，满足了父母望子成龙的心愿，这也是我来这所学校所看到的唯一的好的一点了。</li><li>我为什么考了两年高考呢？说来也不过是复读了一年，这在今年好像司空见惯（亿点点恐怖），复读可以说是我在2020年做过的最正确的事（没有之一），为此我放弃了她：一个相处了一年多的人，她的确很好，很会照顾人，能理解我的痛苦与欢乐，感觉在一起的时候还是很快乐的，不仅是偶尔的腻歪，现在让我印象深刻的是曾经还没有发展成为男女恋人的时候，我们就已经是无话不谈的好朋友了，我们一起看电影、一起吃饭、一起说家里的事，你说你喜欢吴亦凡，我还和张睿一起嘲笑你（现在想想真是不应该），我也不知道为什么你会喜欢我，千里迢迢坐公交车跑来给我送书、请我看电影、请我吃饭，我可真是个榆木脑袋，竟然没发现你的意思，要不是你说出来，我还一直被蒙在鼓里呢。但最后我们还是在一起了呀！我们下课一起吃饭吃麻辣串，那天很冷，你跳起来说真好吃的时候我的心已经快被你暖化了，我的心里想怎么会有这么可爱的女孩子，我一定会经常给他买麻辣串的，让她每天都开开心心的。第一张合照是校园艺术节，你跟我照了第一张合照，我也觉得很好看，照片上的两个人都在放肆的笑，无忧无虑的，那一年也许是我最快乐的一年了。但小可爱也会生气，而且还自嘲自己是小刺猬，但我知道你是喜欢我、舍不得我情急之下才生气的。第一次你生气的时候我已经记不得原因了，但我只记得你嘟着嘴，一副委屈巴巴的表情，我当时就笑出来了，觉得你怎么这么可爱，连生气也是。后来嘛，就上了高三，大家压力都很大，也经常会有一些事发生，我承认我确实是个钢铁直男（bushi）经常惹你生气，但我们俩的感情一点都没有变淡，你说你想去重庆，我觉得异地也无所谓，但没办法高考的结果就像是一把锋利的尖刀切碎了我们两个悉心编制的的美好，一切都化为了泡影，不得已我们选择了彼此都不喜欢的学校，相距一千多公里，我的内心仍然有遗憾但我从没选择过放弃，由此我选择了复读。我以为距离不是问题，我以为一周可以给你打四五个电话，但我都错了，我发现我们两个最大的问题不是我们本身的问题，而是两个系统不能兼容的问题，你很好，我也不错，我们两个的性格、办事作风、甚至是三观都有不同，你急躁我沉默、你外向我内向，这都是我们难以兼容的问题。为此我不得已提出了分手，我也会难受，我也会想你，但我知道如果一直拖着是没有什么好结果的。不多说了又要多想难受了。希望小赫敏在以后都好好的，平安喜乐哦。</li><li>哦！忘了说，分手后于情于理我都必须要好好学习来应对高考了，毕竟之前的高三属实过的不像高三，压力什么的也没多想吧，就是想认认真真的好好过一遍高三，至于能考上什么学校对于高四的我来说反而不是那么重要了，只是做一天和尚撞一天钟（指每天都做完1的事，有余力的情况下再做0.123456789的事），没想到成绩还提高了，稳定在全校前五十左右，可能我学会了做错题本吧，这是我觉得高四我做过的最牛掰的事了！其实感觉也没有多累，只是每一天都学一点，父母给的压力少一点，自然而然的就学有余力了。</li><li>由此可以看到我不过是大海中一粒渺小的沙粒，既然我能来到这里，不全是他人之责，也有本人的态度和对未来的考量。说其为地狱，也不过是对于其警务化管理、一天三集合、四次变装秀的无脑形式主义的不理解与嘲讽，觉得体制内的东西确实可以磨掉人的个性化，但为了以后的所谓公务员、父母眼中的体面、亲戚朋友眼中的羡慕嫉妒，对于这样的地狱，我不入谁入？（目前看来这地狱是我的最好的选择了吧）</li></ul><h6 id="—————我终将落俗，但浪漫至死不渝。"><a href="#—————我终将落俗，但浪漫至死不渝。" class="headerlink" title="—————我终将落俗，但浪漫至死不渝。"></a>—————我终将落俗，但浪漫至死不渝。</h6><p>编辑于2021.10.15</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;谨以此纪念我来到的这个如地狱般的学校&quot;&gt;&lt;a href=&quot;#谨以此纪念我来到的这个如地狱般的学校&quot; class=&quot;headerlink&quot; title=&quot;谨以此纪念我来到的这个如地狱般的学校&quot;&gt;&lt;/a&gt;谨以此纪念我来到的这个如地狱般的学校&lt;/h1&gt;&lt;h5 id=&quot;记</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="感想" scheme="http://example.com/tags/%E6%84%9F%E6%83%B3/"/>
+    
+  </entry>
+  
+</feed>
